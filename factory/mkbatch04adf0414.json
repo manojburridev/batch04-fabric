@@ -1,0 +1,21 @@
+{
+	"name": "mkbatch04adf0414",
+	"properties": {
+		"globalParameters": {
+			"waittime": {
+				"type": "int",
+				"value": 10
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fef3774-39f0-4eca-b47f-ace38f7df845",
+		"tenantId": "3c91de4d-fd08-4683-979d-0d7c79b06dd4"
+	}
+}
